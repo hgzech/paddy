@@ -1,0 +1,9 @@
+project:
+  output-dir: _docs
+
+website:
+  title: "paddy"
+  site-url: "https://hgzech.github.io/paddy"
+  description: "paddy"
+  repo-branch: main
+  repo-url: "https://github.com/hgzech/paddy"
